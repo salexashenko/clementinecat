@@ -1,6 +1,7 @@
 ## Hello!
 
-My name is Clementine. I am a cat! Here are some pictures of me:
+My name is Clementine. I am a cat!
+![Me!](/uploads/slider/signal-2019-06-07-143441.jpg)
 
 
 
