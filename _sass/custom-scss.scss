@@ -1,0 +1,43 @@
+// Add your own custom CSS here.
+@import "pygments-tomorrow";
+
+.post-content img,
+.post-excerpt-home img,
+.post-nav img {
+  @extend .img-rounded;
+}
+.post-content table,
+.post-excerpt-home table,
+.post-nav table {
+  @extend .table;
+  @extend .table-bordered;
+}
+
+.row-space-sm {
+  margin-bottom: $space-sm;
+}
+
+.row-space-md {
+  margin-bottom: $space-md;
+}
+
+.post-content .cssconf-image {
+  display: none;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto 1em;
+  @media (min-width: $screen-sm-min) {
+    display: block;
+    float: right;
+    margin: 0 1rem 0 1rem;
+  }
+}
+
+.home-read-more {
+  margin-bottom: 40px;
+}
+
+.about-header {
+  margin-top: 0;
+}
