@@ -3,7 +3,7 @@
 My name is Clementine. I am a cat!
 
 
-<img src="/uploads/slider/signal-2019-06-07-143441.jpg" width="266" height="355">
+<img src="/uploads/slider/signal-2019-06-07-143441.jpg" width="355" height="266">
 
 
 I currently live in Manhattan Beach. I roam a lot! If I come up to you on the street, most likely I am not lost and want pets. Please, pet me!
