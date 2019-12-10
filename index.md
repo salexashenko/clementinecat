@@ -1,7 +1,10 @@
 ## Hello!
 
-My name is Sergey Alexashenko. I once wrote a [book](http://www.corticalcircuitry.com/) about how the neocortex works, and how we can use what we know about it to build better AI algorithms.
+My name is Clementine. I am a cat! Here are some pictures of me:
 
-I also sometimes write about [finance](https://seekingalpha.com/author/techgrows) and [other things](https://medium.com/@SAlexashenko). My old blog is on [Svbtle](https://salexashenko.svbtle.com).
 
-I am interested in neuroscience, AI, finance, data science, economics and synthetic biology. I sometimes invest in startups. If you want to talk about any of the above - [say hi](mailto:s.alexashenko@gmail.com). I also reply to people on [Twitter](https://twitter.com/SAlexashenko).
+
+I currently live in Manhattan Beach. I roam a lot! If I come up to you on the street, most likely I am not lost and want pets. Please, pet me!
+My current roaming area spans from Manhattan Beach Blvd to 8th street, though I've been known to go farther.
+
+If you need to contact my humans (if I'm hurt or bothering you, for example) - feel free to text or call the following number:
