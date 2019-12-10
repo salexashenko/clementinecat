@@ -1,0 +1,32 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://salexashenko.github.io" # the base hostname & protocol for your site
+title: "Sergey Alexashenko"
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+
+gems:
+  - jemoji
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: :title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+# Google Analytics
+google_analytics: "UA-48799345-2"
+gtm: "GTM-N4ZNX5X"
