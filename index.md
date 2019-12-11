@@ -7,7 +7,7 @@ My name is Clementine. I am a cat!
 
 
 I currently live in Manhattan Beach. I roam a lot! If I come up to you on the street, it's not because I'm lost, I just want to say hi!
-My current roaming area spans from Manhattan Beach Blvd to 8th street, though I've been known to be venture further.
+My current roaming area spans from Manhattan Beach Blvd to 8th street, though I've been known to venture further.
 
 If you need to contact my humans (if I'm hurt or bothering you, for example) - feel free to text or call the following number:
 
