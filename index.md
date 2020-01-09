@@ -15,4 +15,4 @@ If you need to contact my humans (if I'm hurt or bothering you, for example) - f
 
 You can also look at more pictures of me [here](https://photos.google.com/share/AF1QipP2LuaEEmSEMI_F2ToZaa48KJW0i92OyRgsYPr0tesM2MzU-aGhOnXlRzIXUgmcNA?key=dHQxQWc1TW1iRnRUcERGbERYb3BZYUZia2ZOaDVB). Aren't I majestic?
 
-P.S. Feel free to add more pictures of me!
+P.S. Feel free to add more pictures to the album!
