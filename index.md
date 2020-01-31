@@ -11,7 +11,7 @@ My current roaming area spans from Manhattan Beach Blvd to 8th street, though I'
 
 If you need to contact my humans (if I'm hurt or bothering you, for example) - feel free to text or call the following number:
 
-(415) 988 - three six zero eight
+(712) 339 - five four three two
 
 You can also look at more pictures of me [here](https://photos.google.com/share/AF1QipP2LuaEEmSEMI_F2ToZaa48KJW0i92OyRgsYPr0tesM2MzU-aGhOnXlRzIXUgmcNA?key=dHQxQWc1TW1iRnRUcERGbERYb3BZYUZia2ZOaDVB). Aren't I majestic?
 
